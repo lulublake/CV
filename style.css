@@ -1,0 +1,16 @@
+body{
+  background-color: white;
+  padding: 50px calc(20vw - 5rem); 
+  background-image: url(./passport.jpg);
+  background-size: 10rem 10rem;
+  background-repeat: no-repeat;
+  background-position: calc(20vw - 5rem) 50px ;
+  border:solid  10px grey;
+}
+.Head{
+    text-align: right;
+}
+b.date{
+    margin: 10px 0 10px 0;
+    display: block;
+}
